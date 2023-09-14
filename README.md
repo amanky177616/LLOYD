@@ -1,4 +1,4 @@
-# LLYOD
+# LLOYD
 
 ## A full stack training using node and react with handson examples.
 
