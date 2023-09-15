@@ -5,10 +5,11 @@ import { UpdateStudentDto } from './dto/update-student.dto';
 @Injectable()
 export class StudentService {
   create(createStudentDto: CreateStudentDto) {
+    // throw new Error("Can not add new student");
     return (
-      'Student created: ' +
+      'A new Student is created: ' +
       createStudentDto.name +
-      ' and age is ' +
+      ' and the age is ' +
       createStudentDto.age
     );
   }
