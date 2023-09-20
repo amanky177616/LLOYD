@@ -14,3 +14,6 @@ export const msalConfig = {
 export const loginRequest = {
   scopes: ["User.Read"],
 };
+
+// demo@myoffice3749.onmicrosoft.com
+// Lloyd@123
